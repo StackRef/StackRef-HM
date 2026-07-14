@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="StackRef Hackathon Manager" width="420" />
+<img src="assets/logo.png" alt="StackRef Hackathon Manager" width="640" />
 
 # StackRef Hackathon Manager (StackRef HM)
 
